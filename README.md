@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=_7OM-cMYWbQ&ab_channel=BroCode
 2. program with GUI
    -open GUI and run PokerCard.exe
 
+JQK = 10 point
+A-10 = 1-10 point
+
 Steps:
 1. Enter the player's name then click start.
 ![image](https://github.com/jianxin21/poker_card_game/assets/141626881/1f819440-60f7-466d-a2a8-5ae985cf9e0a)
