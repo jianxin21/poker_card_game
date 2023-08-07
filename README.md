@@ -1,7 +1,7 @@
 # poker_card_game
 
 JavaFx version - 11.0.2
-IDE - Eclipse
+<br>IDE - Eclipse
 
 JavaFX setup
 https://www.youtube.com/watch?v=_7OM-cMYWbQ&ab_channel=BroCode
