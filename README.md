@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=_7OM-cMYWbQ&ab_channel=BroCode
 2. program with GUI
    -open GUI and run PokerCard.exe
 
-JQK = 10 point,
+JQK = 10 point <br>
 A-10 = 1-10 point
 
 Steps:
