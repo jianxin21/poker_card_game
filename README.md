@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=_7OM-cMYWbQ&ab_channel=BroCode
 
 Steps:
 1. Enter the player's name then click start.
-![image| width=100](https://github.com/jianxin21/poker_card_game/assets/141626881/05ce51e2-32cb-4747-91e8-5d60de8ee9a5)
+![image](https://github.com/jianxin21/poker_card_game/assets/141626881/1f819440-60f7-466d-a2a8-5ae985cf9e0a)
 
-2. 
-![image| width=100](https://github.com/jianxin21/poker_card_game/assets/141626881/b2185469-abdb-40a7-984b-502e50b4d3a4)
+2. Click Shuffle if the player requests a new set of cards else click start to proceed to the next stage.
+![image](https://github.com/jianxin21/poker_card_game/assets/141626881/27c3b218-9a78-4b72-82ad-1bcb1741f8f9)
+
