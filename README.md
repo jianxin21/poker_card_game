@@ -15,6 +15,6 @@ Steps:
 1. Enter the player's name then click start.
 ![image](https://github.com/jianxin21/poker_card_game/assets/141626881/1f819440-60f7-466d-a2a8-5ae985cf9e0a)
 
-2. Click Shuffle if the player requests a new set of cards else click start to proceed to the next stage.
+2. Click Shuffle if the player requests a new set of cards else click Start to proceed to the next stage.
 ![image](https://github.com/jianxin21/poker_card_game/assets/141626881/27c3b218-9a78-4b72-82ad-1bcb1741f8f9)
 
