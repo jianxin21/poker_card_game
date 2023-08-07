@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=_7OM-cMYWbQ&ab_channel=BroCode
 
 Steps:
 1. Enter the player's name then click start.
-![image](https://github.com/jianxin21/poker_card_game/assets/141626881/05ce51e2-32cb-4747-91e8-5d60de8ee9a5| width=100)
+![image| width=100](https://github.com/jianxin21/poker_card_game/assets/141626881/05ce51e2-32cb-4747-91e8-5d60de8ee9a5)
 
 2. 
-![image](https://github.com/jianxin21/poker_card_game/assets/141626881/b2185469-abdb-40a7-984b-502e50b4d3a4| width=100)
+![image| width=100](https://github.com/jianxin21/poker_card_game/assets/141626881/b2185469-abdb-40a7-984b-502e50b4d3a4)
